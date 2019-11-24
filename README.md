@@ -1,6 +1,6 @@
 # Flip-This
 
-Flip-This is an digital drawing and animation application meant to mimic the 'flipbook' animation style of drawing many similar images with incremental changes on different pages and 'flipping' through them to create the perception of animation. A user can manually draw on multiple HTML canvas elements and play them in order to view the perceived animation. There are also some preset animation options. A user can apply multiple animations through the ability of adding layers of stacked canvas elements. There are more instructions on the index page.
+Flip-This is a digital drawing and animation application meant to mimic the 'flipbook' animation style of drawing many similar images with incremental changes on different pages and 'flipping' through them to create the perception of animation. A user can manually draw on multiple HTML canvas elements and play them in order to view the perceived animation. There are also some preset animation options. A user can apply multiple animations through the ability of adding layers of stacked canvas elements. There are more instructions on the index page.
 
 This is a Vannilla JS app with a Rails backend. This repo is only for the back end of the application. You can find the front-end here: [Frontend-Repo](https://github.com/oliburt/flip-this-frontend)
 
